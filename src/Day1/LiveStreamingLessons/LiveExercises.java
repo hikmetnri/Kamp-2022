@@ -25,7 +25,7 @@ public class LiveExercises {
         String [] krediler= {"Hızlı kredi","Maaşinı halkbaktan","Mutlu Kredi"};
         for (int i = 0; i < krediler.length ; i++) {
             System.out.println(krediler[i]);
-
+            System.out.println("Editör ayarlarım da yapıldı");
         }
     }
 }
