@@ -49,7 +49,7 @@ public class Main {
         Customer [] customers={corporateCustomer, individualCustomer};
 
         for (Customer Customers: customers) {
-            System.out.println(customers);
+            System.out.println(Customers.getCustomerNumber());
         }
 
     }
