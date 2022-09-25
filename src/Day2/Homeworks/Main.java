@@ -30,10 +30,10 @@ public class Main {
         System.out.println(sayi2);
 
 
-        int sayilar1[] = new int[]{1, 2, 3};
-        int sayilar2[] = new int[]{4, 5, 6};
+        int sayilar1[] ={1, 2, 3};
+        int sayilar2[] ={4, 5, 6};
         sayilar2=sayilar1;
-        sayilar1[0]=10;
+        sayilar1[0]=100;
         System.out.println(sayilar2[0]);
     }
 
