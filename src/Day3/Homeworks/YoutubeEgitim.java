@@ -26,6 +26,5 @@ public class YoutubeEgitim {
           CustomerManager customers =new CustomerManager(customer,company,person);
           customers.add(customer);
           customers.save(customer);
-
     }
 }
